@@ -1,12 +1,12 @@
 #### Tech: Create a new GitHub repo
 
-**Subject:** http://github.com
+**Subject:** [github.com](http://github.com)
 
 
 
 ## Create an account on GitHub
 
-Visit http://github.com/ and figure it out.
+Visit [github.com](http://github.com) and figure it out.
 
 
 
