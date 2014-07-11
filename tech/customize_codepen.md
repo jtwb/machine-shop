@@ -21,6 +21,6 @@ To adjust the font size just use your browser's "zoom" feature. On OSX you can u
 ## No flickering background
 To kill the flickering background, drag this [bookmarklet](http://en.wikipedia.org/wiki/Bookmarklet) to your browser's bookmarks bar. Clicking the bookmark (while you are looking at codepen.io) will kill the flicker problem.
 
-```
-javascript:!!(function(){var s=document.createElement('style');s.text='.box{background:#252525;}';var h=document.getElementsByTagName('head')[0];h.appendChild(s)});return false;
+```javascript
+javascript:(function(d){var s=d.createElement('style');s.text='.box{background:#252525;}';var h=d.getElementsByTagName('head')[0];h.appendChild(s)})(document);return false;
 ```
