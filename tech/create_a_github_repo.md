@@ -1,4 +1,4 @@
-## Tech: Create a new GitHub repo
+#### Tech: Create a new GitHub repo
 
 **Subject:** http://github.com/
 
