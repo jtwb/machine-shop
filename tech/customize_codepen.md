@@ -5,14 +5,16 @@
 
 ## Codepen.io can be pretty
 
-![CodePen screenshot](https://s3.amazonaws.com/machine-shop/Screen+Shot+2014-07-11+at+3.28.06+PM.png)
-
+<p align="center">
+<img src="https://s3.amazonaws.com/machine-shop/Screen+Shot+2014-07-11+at+3.28.06+PM.png" alt="CodePen screenshot" width="570"/>
+</p>
 
 
 ## Codepen.io can also be ugly
 
-![CodePen screenshot](https://s3.amazonaws.com/machine-shop/Screen+Shot+2014-07-11+at+3.25.19+PM.png)
-
+<p align="center">
+<img src="https://s3.amazonaws.com/machine-shop/Screen+Shot+2014-07-11+at+3.25.19+PM.png" alt="CodePen screenshot" width="570"/>
+</p>
 
 
 ## Smaller fonts
