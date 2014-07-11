@@ -2,13 +2,18 @@
 
 **Subject:** http://codepen.io/
 
-At its worst, CodePen can look like this:
+
+## Codepen.io can be pretty
+
+![CodePen screenshot](https://s3.amazonaws.com/machine-shop/Screen+Shot+2014-07-11+at+3.28.06+PM.png)
+
+
+
+## Codepen.io can also be ugly
 
 ![CodePen screenshot](https://s3.amazonaws.com/machine-shop/Screen+Shot+2014-07-11+at+3.25.19+PM.png)
 
-This is better:
 
-![CodePen screenshot](https://s3.amazonaws.com/machine-shop/Screen+Shot+2014-07-11+at+3.28.06+PM.png)
 
 ## Smaller fonts
 To adjust the font size just use your browser's "zoom" feature. On OSX you can use `⌘ -`, `⌘ +` and `⌘ 0` to control this. I find that setting the zoom level to ~50% looks pretty good.
