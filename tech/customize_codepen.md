@@ -22,5 +22,9 @@ To adjust the font size just use your browser's "zoom" feature. On OSX you can u
 To kill the flickering background, drag this [bookmarklet](http://en.wikipedia.org/wiki/Bookmarklet) to your browser's bookmarks bar. Clicking the bookmark (while you are looking at codepen.io) will kill the flicker problem.
 
 ```javascript
-javascript:(function(d){var s=d.createElement('style');s.text='.box{background:#252525;}';var h=d.getElementsByTagName('head')[0];h.appendChild(s)})(document);return false;
+javascript:(function(d){var s=d.createElement('style');var h=d.getElementsByTagName('head')[0];s.innerHTML='.box{background:#252525 !important;}';h.appendChild(s)})(document);
 ```
+
+Select that text and drag it to your bookmarklets bar. You may want to rename the bookmarklet to something like "Fix codepen".
+
+Alternatively you can create a new bookmark and paste that code where the URL would go.
