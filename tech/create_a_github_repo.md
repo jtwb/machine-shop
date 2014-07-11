@@ -1,6 +1,6 @@
 #### Tech: Create a new GitHub repo
 
-**Subject:** http://github.com/
+**Subject:** http://github.com
 
 
 
