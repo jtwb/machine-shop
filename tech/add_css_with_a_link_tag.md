@@ -4,6 +4,14 @@ This is the standard way to add a CSS file to an HTML page.
 
 When someone opens your HTML page, their browser will download all the files it finds in `<link>` tags on the page before displaying the page to the user.
 
+## A link tag looks like this
+
+```html
+    <link rel="stylesheet" href="/my-styles.css">
+```
+
+## You use it like this
+
 ```html
 <!DOCTYPE html>
 <html>
