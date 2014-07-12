@@ -1,4 +1,4 @@
-##### Tech: Add CSS to a page with a `<link>` tag
+##### Tech: Adding a new CSS file to a page using a `<link>` tag
 
 This is the standard way to add a CSS file to an HTML page.
 
