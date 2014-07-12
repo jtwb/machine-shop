@@ -12,7 +12,29 @@ When this project is complete, you will have built a basic portfolio page using 
 0. Publish the page on GitHub
 0. Customize the page to your liking
 
+## Starting point
 
+(image: basic portfolio page)
+
+## First, open the code in Codepen
+
+(image: codepen code)
+
+Hit the "Fork" button to create your own copy of the project.
+
+You may want to [customize codepen](tech/customize_codepen.md).
+
+## Customize the content a little bit
+
+Try changing the text on the page. Don't worry - you can undo (`⌘ v`) and even re-fork the original project to get back to the start.
+
+Inlcude your name in `<h1>` tag, edit the subtitle, change the `<h2>` sections and link to some cool content you've created. Save your work.
+
+## Add Twitter Bootstrap
+
+This section requires you to [add a CSS file to your page](tech/add_css_with_a_link_tag.md).
+
+Use a `<link>` tag to include `//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.css` on the page. [More info on no-protocol URLs](http://www.paulirish.com/2010/the-protocol-relative-url/).
 
 #### Techs involved:
 
