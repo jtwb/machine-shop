@@ -7,17 +7,19 @@ When someone opens your HTML page, their browser will download all the files it 
 ## A link tag looks like this
 
 ```html
-    <link rel="stylesheet" href="/my-styles.css">
+    <link rel="stylesheet" href="http://codepen.io/jtwb/pen/ukCyA.css">
 ```
 
 ## You use it like this
+
+This page will include CSS rules found at `http://codepen.io/jtwb/pen/ukCyA.css`
 
 ```html
 <!DOCTYPE html>
 <html>
   <head>
     <title>Page title</title>
-    <link rel="stylesheet" href="/my-styles.css">
+    <link rel="stylesheet" href="http://codepen.io/jtwb/pen/ukCyA.css">
   </head>
   <body>
     
